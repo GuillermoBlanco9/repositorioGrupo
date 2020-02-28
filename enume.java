@@ -1,4 +1,4 @@
 
-public interface enume {
+public enum Estados {
 
 }
