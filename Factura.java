@@ -1,5 +1,5 @@
 
-public class Factura 
+public class Factura implemets iFactura
 {
 
 	public int num;
